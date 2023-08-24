@@ -1,6 +1,6 @@
 ### Hi there, I am  Sanjeev Gaddi👋
 
-   🔭 I’m currently working on Front-end and Back-end projects.<......................................................../>
+   🔭 I’m currently working on Front-end and Back-end projects.<........................................................................................./>
    🌱 I’m currently learning everything that supports my career.
    👯 I’m looking to collaborate with other content creaters
    📫 How to reach me: https://www.linkedin.com/in/sanjeevs10/
