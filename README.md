@@ -1,8 +1,9 @@
 ### Hi there, I am  Sanjeev Gaddi👋
 
-   🔭 I’m currently working on Front-end and Back-end projects.<....................................................................................................................................................../>
-   🌱 I’m currently learning everything that supports my career.<.........................................................................................................................................................../>
-    👯 I’m looking to collaborate with other content creaters
+   🔭 I’m currently working on Front-end and Back-end projects.
+   🌱 I’m currently learning everything that supports my career.
+   👯 I’m looking to collaborate with other content creaters
+   📫 How to reach me: https://www.linkedin.com/in/sanjeevs10/
 
 <!--
 **sanjeevgaddi/sanjeevgaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
