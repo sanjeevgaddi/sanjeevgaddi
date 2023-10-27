@@ -4,6 +4,14 @@
    🌱 I’m currently learning everything that supports my career.<............................................................................................................................................./>
    👯 I’m looking to collaborate with other content creaters<....................................................................................................................................................../>
    📫 How to reach me: https://www.linkedin.com/in/sanjeevs10/
+   🔭 I’m currently working on these projects</br>
+   1.https://sanjeevgaddi.github.io/portfolio/</br>
+   2.https://sanjeevgaddi.github.io/facebook/</br>
+   3.https://sanjeevgaddi.github.io/youtube/</br>
+   4.https://sanjeevgaddi.github.io/airbnb/</br>
+   5.https://sanjeevgaddi.github.io/netflix/</br>
+   6.https://sanjeevgaddi.github.io/linkedIn/</br>
+   
 
 <!--
 **sanjeevgaddi/sanjeevgaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
