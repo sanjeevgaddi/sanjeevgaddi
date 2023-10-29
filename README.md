@@ -1,10 +1,10 @@
 ### Hi there, I am  Sanjeev Gaddi👋
 
-   🔭 I’m currently working on Front-end and Back-end projects.<........................................................................................................................................../>
-   🌱 I’m currently learning everything that supports my career.<............................................................................................................................................./>
-   👯 I’m looking to collaborate with other content creaters<....................................................................................................................................................../>
+   🔭 I’m currently working on Front-end and Back-end projects.<..........................................................................................................................................br/>
+   🌱 I’m currently learning everything that supports my career.<.............................................................................................................................................br/>
+   👯 I’m looking to collaborate with other content creaters<......................................................................................................................................................br/>
    📫 How to reach me: https://www.linkedin.com/in/sanjeevs10/</br>
-   🔭 I’m currently working on these projects</br>
+   🔭 I’m currently working on these projects you can watch it and connect with me on LinkedIn</br>
    1.https://sanjeevgaddi.github.io/portfolio/</br>
    2.https://sanjeevgaddi.github.io/facebook/</br>
    3.https://sanjeevgaddi.github.io/youtube/</br>
