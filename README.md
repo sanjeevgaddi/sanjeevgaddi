@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/sanjeevgaddi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevgaddi&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" alt="Pavan's github stats" /></a> | <a href="https://github.com/sanjeevgaddi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevgaddi&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=sanjeevgaddi&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
+| ------------- | ------------- |------------- |
