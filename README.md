@@ -1,4 +1,4 @@
-### Hi there, I am  Sanjeev Gaddi👋
+### Hi there, I am  Sanjeev Gaddi👋</br>![coding](https://github.com/sanjeevgaddi/sanjeevgaddi/assets/80948208/5ad01fd9-c5fb-48fc-b1f7-71679f7aa4c5)</span> 
 
    🔭 I’m currently working on Front-end and Back-end projects.<br/>
    🌱 I’m currently learning everything that supports my career.<br/>
