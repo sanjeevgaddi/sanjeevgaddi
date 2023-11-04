@@ -43,7 +43,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjeevgaddi.github.io/portfolio/](https://sanjeevgaddi.github.io/portfolio/)
 
-- 💬 Ask me about **spring, JDBC, Hibernate, HTML5,CSS3**
+- 💬 Ask me about **Spring, JDBC, Hibernate, HTML5,CSS3**
 
 - 📫 How to reach me **sanjeevgaddi7@gmail.com**
 
