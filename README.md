@@ -33,13 +33,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Videos Playing app](https://sanjeevgaddi.github.io/youtube/)
+- 🔭 I’m currently working on [Videos Playing App](https://sanjeevgaddi.github.io/youtube/)
 
 - 🌱 I’m currently learning **React, Spring Boot,Flutter**
 
-- 👯 I’m looking to collaborate on [Videos Playing app](https://github.com/sanjeevgaddi/youtube.git)
+- 👯 I’m looking to collaborate on [Videos Playing App](https://github.com/sanjeevgaddi/youtube.git)
 
-- 🤝 I’m looking for help with [Videos Playing app](https://github.com/sanjeevgaddi)
+- 🤝 I’m looking for help with [Videos Playing App](https://github.com/sanjeevgaddi)
 
 - 👨‍💻 All of my projects are available at [https://sanjeevgaddi.github.io/portfolio/](https://sanjeevgaddi.github.io/portfolio/)
 
