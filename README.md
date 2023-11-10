@@ -43,7 +43,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sanjeevgaddi.github.io/portfolio/](https://sanjeevgaddi.github.io/portfolio/)
 
-- 💬 Ask me about **Java Core, JDBC, Hibernate, Spring Boot HTML5,CSS3**
+- 💬 Ask me about ** Core Java, JDBC, Hibernate, Spring Boot HTML5,CSS3**
+
 
 - 📫 How to reach me **sanjeevgaddi7@gmail.com**
 
